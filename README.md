@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Cihangir
-- 👀 I’m interested in cyber security and development
-- 🌱 I’m currently learning python and javascript
+- 👀 I’m interested in cyber security and software development
 - 📫 You can reach me on instagram : Cihangir.sh
 
 <!---
